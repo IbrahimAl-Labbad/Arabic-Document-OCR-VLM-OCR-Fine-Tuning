@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Data
+data/
+datasets/
+pdf_images/
+
+# IDEs
+.idea/
+.vscode/
+
+# Models
+checkpoint-*/
+cache/
