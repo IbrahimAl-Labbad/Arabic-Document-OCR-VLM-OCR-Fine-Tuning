@@ -1,4 +1,4 @@
-# 🚀 Arabic Document OCR VLM - Multimodal RAG & OCR Fine-Tuning
+# 🚀 Arabic Document OCR VLM - OCR Fine-Tuning
 
 ## Project Overview
 This project demonstrates an end-to-end pipeline for fine-tuning a Vision-Language Model (VLM) for complex Arabic document parsing. The project leverages **Gemma-3-4b-it** to extract structured JSON data from official Arabic documents, such as decrees, regulations, and official letters.
